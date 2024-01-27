@@ -1,0 +1,14 @@
+F:\ITI-Course\LINQ\NewFirst\bin\Debug\net6.0\NewFirst.exe
+F:\ITI-Course\LINQ\NewFirst\bin\Debug\net6.0\NewFirst.deps.json
+F:\ITI-Course\LINQ\NewFirst\bin\Debug\net6.0\NewFirst.runtimeconfig.json
+F:\ITI-Course\LINQ\NewFirst\bin\Debug\net6.0\NewFirst.dll
+F:\ITI-Course\LINQ\NewFirst\bin\Debug\net6.0\NewFirst.pdb
+F:\ITI-Course\LINQ\NewFirst\obj\Debug\net6.0\NewFirst.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI-Course\LINQ\NewFirst\obj\Debug\net6.0\NewFirst.AssemblyInfoInputs.cache
+F:\ITI-Course\LINQ\NewFirst\obj\Debug\net6.0\NewFirst.AssemblyInfo.cs
+F:\ITI-Course\LINQ\NewFirst\obj\Debug\net6.0\NewFirst.csproj.CoreCompileInputs.cache
+F:\ITI-Course\LINQ\NewFirst\obj\Debug\net6.0\NewFirst.dll
+F:\ITI-Course\LINQ\NewFirst\obj\Debug\net6.0\refint\NewFirst.dll
+F:\ITI-Course\LINQ\NewFirst\obj\Debug\net6.0\NewFirst.pdb
+F:\ITI-Course\LINQ\NewFirst\obj\Debug\net6.0\NewFirst.genruntimeconfig.cache
+F:\ITI-Course\LINQ\NewFirst\obj\Debug\net6.0\ref\NewFirst.dll

@@ -1,0 +1,14 @@
+F:\ITI-Course\LINQ\NewSecond\bin\Debug\net6.0\NewSecond.exe
+F:\ITI-Course\LINQ\NewSecond\bin\Debug\net6.0\NewSecond.deps.json
+F:\ITI-Course\LINQ\NewSecond\bin\Debug\net6.0\NewSecond.runtimeconfig.json
+F:\ITI-Course\LINQ\NewSecond\bin\Debug\net6.0\NewSecond.dll
+F:\ITI-Course\LINQ\NewSecond\bin\Debug\net6.0\NewSecond.pdb
+F:\ITI-Course\LINQ\NewSecond\obj\Debug\net6.0\NewSecond.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI-Course\LINQ\NewSecond\obj\Debug\net6.0\NewSecond.AssemblyInfoInputs.cache
+F:\ITI-Course\LINQ\NewSecond\obj\Debug\net6.0\NewSecond.AssemblyInfo.cs
+F:\ITI-Course\LINQ\NewSecond\obj\Debug\net6.0\NewSecond.csproj.CoreCompileInputs.cache
+F:\ITI-Course\LINQ\NewSecond\obj\Debug\net6.0\NewSecond.dll
+F:\ITI-Course\LINQ\NewSecond\obj\Debug\net6.0\refint\NewSecond.dll
+F:\ITI-Course\LINQ\NewSecond\obj\Debug\net6.0\NewSecond.pdb
+F:\ITI-Course\LINQ\NewSecond\obj\Debug\net6.0\NewSecond.genruntimeconfig.cache
+F:\ITI-Course\LINQ\NewSecond\obj\Debug\net6.0\ref\NewSecond.dll
